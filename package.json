@@ -22,6 +22,9 @@
   "lint": "eslint src/**/*.js",
   "format": "prettier --write src/"
 },
+"scripts": {
+  "build": "react-scripts build"
+},
 "eslintConfig": {
     "extends": [
       "react-app",
